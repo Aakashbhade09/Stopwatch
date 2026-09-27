@@ -73,3 +73,6 @@ button {
     background-color: #52606d;
 }
 
+button:hover {
+    opacity: 0.8;
+}
