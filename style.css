@@ -39,9 +39,9 @@ h1 {
 .labels {
     display: flex;
     justify-content: center;
-    gap: 55px;
+    gap: 100px;
     color: #9fb3c8;
-    font-size: 14px;
+    font-size: 20px;
     margin-bottom: 30px;
 }
 
